@@ -5,7 +5,8 @@
 		"episode": 500,
 		"categorie": "Animation | Drama | Adventure",
 		"studio": "Studio Pierrot",
-		"img": "http://showcard.in/image.png"
+		"img": "http://showcard.in/image.png",
+		"num": 9744477794
 	},
 	{
 		"name": "One Piece",
@@ -14,7 +15,8 @@
 		"episode": 700,
 		"categorie": "Animation | Drama | Adventure",
 		"studio": "Toei Animation",
-		"img": "http://showcard.in/image.png"
+		"img": "http://showcard.in/image.png",
+		"num": 7025915151
 	},
 	{
 		"name": "Attack on Titan",
@@ -23,6 +25,7 @@
 		"episode": 500,
 		"categorie": "Animation | Drama | Adventure",
 		"studio": "Wit Studio",
-		"img": "http://showcard.in/image.png"
+		"img": "http://showcard.in/image.png",
+		"num": 9744477794
 	}
 ]
