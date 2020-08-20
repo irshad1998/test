@@ -1,1 +1,14 @@
-aaa
+ {
+   "alsafa": [
+	       {
+ 			"date": "22/08/2020",
+ 			"broilerstockin": "Stock in",
+ 			"broilerstockout": " ",
+ 			"chicksstockin": "Stock in",
+ 			"chicksstockout": " ",
+ 			"feedsstockin": "Stock in",
+ 			"feedsstockout": " "
+ 		}
+
+ 	]
+ }
